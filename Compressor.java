@@ -9,6 +9,6 @@ public class Compress {
         /* Could convert file into string OR
         *  compress AS the file is being read in
         */
-        HashTable dictionary = new HashTable[];
+        HashT dictionary = new HashT[];
     }
 }
